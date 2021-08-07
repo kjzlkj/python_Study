@@ -6,7 +6,7 @@ python添加环境变量
     D:\python38\Scripts   
     D:\python38
 
-python安装目录说明
+python安装目录说明...
     python38\Lib\site-packages   第三方安装包
 
 常用快速键
