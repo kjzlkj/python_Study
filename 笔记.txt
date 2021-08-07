@@ -1,0 +1,87 @@
+.c     c源码
+.cpp   c++源码
+.h     C头文件
+
+python添加环境变量
+    D:\python38\Scripts   
+    D:\python38
+
+python安装目录说明
+    python38\Lib\site-packages   第三方安装包
+
+常用快速键
+    ctr+s  保存
+    ctr+z  后退 
+    ctr+a  全选
+    Tab        缩近
+    shift+Tab  取消缩近
+    Ctrl+/     注释
+    
+
+变量、常量
+单个变量赋值、多个变量赋值
+数据类型
+数字类型: int（整数）、float（小数）、bool（0，1，False，True）
+数据结构  
+ print(type(a))
+ 
+
+windows远程连接linux
+    47.104.183.34  root Ls20210724Ls20210724
+    ssh root@47.104.183.34
+    
+python第三方包的安装
+    pip list 
+    pip install package
+    pip install pyinstall -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+cd  进入目录
+ls  列举当前所有文件
+ll  
+pwd  查看当前路径
+
+cat  查看文本
+vi    查看编辑文本
+vim 
+cp
+scp  
+mv
+rm 
+
+运算符
+    算术运算符
+    比较运算符
+    赋值运算符
+    逻辑运算符
+        and        同时真才为真
+        or（或者） 一真就为真
+        not 
+
+if 可以单独使用       
+if  else  只能进入一个程序入口
+if elif else  只能进入一个程序入口
+    if str:
+        print("yes")
+    elif 0:
+        print("1")
+    elif 1:
+        print("2")
+    elif 2:
+        print("3")
+    else:
+        print("no")
+for in （对于列表里的元素进行逐个打印）
+while
+
+break  退出上一层循环
+
+    作业：
+筛选列表中的偶数，打印出来
+
+ubuntu包管理工具
+    apt
+    apt-get
+    dpkg
+
+
+
